@@ -1,0 +1,1 @@
+# BingQueryCoronavirus-Loc
